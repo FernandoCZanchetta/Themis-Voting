@@ -1,3 +1,6 @@
 [submodule "Themis-Voting-Server"]
 	path = Themis-Voting-Server
 	url = https://github.com/FernandoCZanchetta/Themis-Voting-Server
+[submodule "Themis-Voting-Client"]
+	path = Themis-Voting-Client
+	url = https://github.com/FernandoCZanchetta/Themis-Voting-Client
