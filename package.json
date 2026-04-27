@@ -1,0 +1,24 @@
+{
+  "name": "themis-voting",
+  "version": "1.0.0",
+  "description": "Themis is a voting system, inspired by Helios Voting premises, but focused in USP (University of São Paulo) discent elections, votings, polls and similars...",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoCZanchetta/Themis-Voting.git"
+  },
+  "keywords": [
+    "voting",
+    "election",
+    "poll"
+  ],
+  "author": "Fernando Zanchetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoCZanchetta/Themis-Voting/issues"
+  },
+  "homepage": "https://github.com/FernandoCZanchetta/Themis-Voting#readme"
+}
